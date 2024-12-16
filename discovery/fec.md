@@ -16,7 +16,7 @@ https://scalameta.org/scalafmt/docs/configuration.html
 how to update hooks before compiling? sbt watch sus
 
 // delete branch locally
-git branch -d localBranchName
+git branch -d localBranchNameqq
 
 // delete branch remotely
 git push origin --delete remoteBranchName
@@ -36,4 +36,6 @@ To include different kinds of information in Scaladoc, we can use pre-defined ta
 @todo is used to document pending items for a method or class
 
 sbt doc
+
+
 
