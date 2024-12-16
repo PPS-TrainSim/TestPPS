@@ -1,0 +1,28 @@
+## Project
+
+- #### Name
+- #### Proposal
+- #### DDD
+  - Knowledge crunching
+    - User story
+      - Feature
+      - Test
+    - Use case
+      - Diagram 
+    - Domain storytelling
+      - Vediamo se serve
+  - Domain/subdomain
+    - Domain/subdomain model
+      - Entity
+      - Value Object
+      - Service
+      - Events
+      - Repository
+    - Architecture
+      - Domain/subdomain 
+  - Bound context
+    - Context map
+    - Context map
+    - Context map
+  - Ubiquitous language
+    - Dei vari domain/subdomain trovati
